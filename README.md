@@ -8,5 +8,6 @@
 |  2 | 03-09-2025  | 01  | Widget Row dan Column  | [modul-2](https://drive.google.com/file/d/1dNiOXGEjN2okjy5jZKwLnRnzejAlS0DY/view?usp=sharing "Modul-2") | [module-2](https://github.com/afifdnz/mobile-practicum-module-2 "program-module-2") |
 |  3 | 10-09-2025  | 02  | Pengaturan Layout Row dan Column di Flutter  | coming soon | [module-3](https://github.com/afifdnz/mobile-practicum-module-3 "program-module-3") |
 |  3 | 10-09-2025  | 02  | Widget Flexible dan Expanded | coming soon | [module-4](https://github.com/afifdnz/mobile-practicum-module-4 "program-module-4") |
+|  4 | 17-09-2025  | 03  | Widget SizedBox, Space, dan Card | coming soon | [module-5](https://github.com/afifdnz/mobile-practicum-module-5 "program-module-5") |
 
 
