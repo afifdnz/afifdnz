@@ -15,4 +15,4 @@
 |  9 | 01-10-2025  | 04  | StatefulWidget | [modul-9](https://drive.google.com/file/d/1J8XamWaI2tCURb86niPWA3TDEGqv3z0o/view?usp=sharing "Modul-9") | [module-8](https://github.com/afifdnz/mobile-practicum-module-9 "program-module-9") |
 |  10 | 08-10-2025  | 05  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | comming soon | [module-10](https://github.com/afifdnz/mobile-practicum-module-10 "program-module-10") |
 |  11 | 15-10-2025  | 07  | Manajemen State dengan GetX | comming soon | [module-11](https://github.com/afifdnz/mobile-practicum-module-11 "program-module-11") |
-|  12 | 06-11-2025  | 08  | Akses Lokasi dengan GPS di Flutter | https://github.com/afifdnz/mobile-practicum-module-12 | [module-12](https://github.com/afifdnz/mobile-practicum-module-12 "program-module-12") |
+|  12 | 06-11-2025  | 08  | Akses Lokasi dengan GPS di Flutter |  | [module-12](https://github.com/afifdnz/mobile-practicum-module-12 "program-module-12") |
