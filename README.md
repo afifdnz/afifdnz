@@ -16,5 +16,5 @@
 |  10 | 08-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [modul-10](https://drive.google.com/file/d/1qdR1GOhECw-fFLfw9hU9NDJplrOV_Ig7/view?usp=sharing "Modul-10") | [module-10](https://github.com/afifdnz/mobile-practicum-module-10 "program-module-10") |
 |  11 | 15-10-2025  | 07  | Manajemen State dengan GetX | [modul-11](https://drive.google.com/file/d/1Pq9a5Vqzqgq0u807CDYpC3FH0vVJQv8W/view?usp=sharing "Modul-11") | [module-11](https://github.com/afifdnz/mobile-practicum-module-11 "program-module-11") |
 |  12 | 06-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter | [modul-12](https://drive.google.com/file/d/1z9-hBnLvtRkmukdcncrpqUvtX-7e1s9o/view?usp=sharing "Modul-12") | [module-12](https://github.com/afifdnz/mobile-practicum-module-12 "program-module-12") |
-|  13 | 06-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | Coming soon | [module-13](https://github.com/afifdnz/mobile-practicum-module-13 "program-module-13") |
+|  13 | 06-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [modul-13](https://drive.google.com/file/d/1yPTsRXR7OoQtKKVMbNjURPFPrPpBdf6N/view?usp=sharing "Modul-13") | [module-13](https://github.com/afifdnz/mobile-practicum-module-13 "program-module-13") |
 
